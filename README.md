@@ -9,7 +9,7 @@
 ---
 
 ### 1. OS X Password Input Automation Using Arduino Leonardo & RC522 RFID Module
-![login](./assets/login.jpg)
+![login1](./assets/login1.jpg)
 Back in January 2015, Macs didn't have built-in fingerprint sensors, so logging in meant typing your password every time.
 I didn't like having to type my password repeatedly, especially when I was concerned about exposing it to people nearby.<br>
 So I built my own solution using an Arduino and an NFC reader. I modified the setup so that I could log in to my Mac simply by tapping my credit card against the reader.
@@ -19,6 +19,8 @@ So I built my own solution using an Arduino and an NFC reader. I modified the se
 https://github.com/user-attachments/assets/a3104fb6-bed8-4e69-9594-2a8e8b72e0a7
 
 (Music: Quickly made by me using GarageBand)
+
+![login2](./assets/login2.jpg)
 
 ---
 
@@ -33,7 +35,7 @@ https://github.com/user-attachments/assets/5a2a80f3-adcd-44f7-882a-c1e360f0a363
 
 (Music: Happy Sad by Pizzicato Five / Une Very Stylish Fille by Dimitri From Paris)
 
-![bracelet3](./assets/bracelet3.jpg)
+![bracelet2](./assets/bracelet2.jpg)
 
 - Adafruit Arduino: https://learn.adafruit.com/introducing-gemma/setting-up-with-arduino-ide
 - NeoPixel library: https://github.com/adafruit/Adafruit_NeoPixel
@@ -49,6 +51,8 @@ To solve this, I built a device that monitors ambient light levels and sounds an
 https://github.com/user-attachments/assets/c76416bb-a428-435e-90d2-4845f18a2093
 
 (Music: Quickly made by me using GarageBand)
+
+![alarm1](./assets/alarm1.jpg)
 
 ---
 
@@ -66,4 +70,4 @@ https://github.com/user-attachments/assets/c76416bb-a428-435e-90d2-4845f18a2093
 └── README.md
 ```
 
-![bracelet2](./assets/bracelet2.jpg)
+![bracelet3](./assets/bracelet3.jpg)
