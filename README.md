@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/a3104fb6-bed8-4e69-9594-2a8e8b72e0a7
 
 ---
 
-### 2. LED Bracelet Using Adafruit NeoPixel RGB LED Strip and Adafruit Gemma
+### 2. LED Bracelet Using Adafruit NeoPixel RGB LED Strip & Adafruit Gemma
 ![bracelet1](./assets/bracelet1.jpg)
 I love electronic music and dancing, and I used to DJ as well. I was a big fan of clubbing (before I got too old for the club scene 😂), so I wanted to create something that would stand out on the dance floor.<br>
 I designed and built an LED bracelet to catch people's attention in the club.
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/6308b88c-c68c-4f63-b695-55e890fe86db
 
 ---
 
-### 3. Low-Illuminance Alarm Device
+### 3. Low-Illuminance Alarm Device Using Arduino Uno & Photocell
 I used to be into houseplants, but as a night owl, I often forgot to open the blinds during the day. My Syngonium ended up growing leggy due to insufficient light.<br>
 To solve this, I built a device that monitors ambient light levels and sounds an alarm when the light gets too low, reminding me that my plant needs more sunlight.
 
