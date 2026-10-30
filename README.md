@@ -31,9 +31,10 @@ I designed and built an LED bracelet to catch people's attention in the club.
 
 [Download Higher-Quality Video (led_bracelet.mp4)](https://github.com/karmakaryx/arduino-throwback-toys/releases/download/v2.0/led_bracelet.mp4)
 
-https://github.com/user-attachments/assets/5a2a80f3-adcd-44f7-882a-c1e360f0a363
+https://github.com/user-attachments/assets/6308b88c-c68c-4f63-b695-55e890fe86db
 
-(Music: Happy Sad by Pizzicato Five / Une Very Stylish Fille by Dimitri From Paris)
+(Music: Happy Sad by Pizzicato Five / Une Very Stylish Fille by Dimitri From Paris)<br>
+*Music playback is only available when downloading the higher-quality video.*
 
 ![bracelet2](./assets/bracelet2.jpg)
 
